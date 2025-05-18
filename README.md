@@ -59,8 +59,8 @@ I'm open to connecting with fellow testers, developers, and QA engineers.
 Let’s talk about tech, testing, or automation best practices!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pradeep-murugesh/)
-- 📧 Email: (Add your email here if comfortable)
-- 🌍 Portfolio: (Optional – add link if available)
+- 📧 Email: pradeepgesh@gmail.com
+- 🌍 Portfolio: 
 
 ---
 
