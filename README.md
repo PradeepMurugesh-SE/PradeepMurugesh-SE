@@ -1,149 +1,219 @@
 ﻿<div align="center">
+<# 👋 Hi, I'm Pradeep Murugesh
 
-<table width="100%">
-  <tr>
-    <td valign="top" width="320">
-      <div style="background: #f5f7fb; border: 1px solid #dfe3ee; border-radius: 20px; padding: 18px 18px 12px; margin-right: 12px;">
-        <img src="https://github.com/PradeepMurugesh-SE.png" alt="Pradeep Murugesh" width="210" style="border-radius: 50%; background: #fff; padding: 8px; border: 1px solid #dfe3ee;" />
-        <h3 style="margin: 16px 0 6px; font-size: 28px; color: #1f2937;">Pradeep Murugesh</h3>
-        <p style="margin: 0; font-size: 16px; color: #5b6472;">PradeepMurugesh-SE</p>
-        <div style="margin-top: 18px; padding-top: 14px; border-top: 1px solid #e3e7ef;">
-          <a href="#profile-summary">
-            <img src="https://img.shields.io/badge/Edit_profile-ffffff?style=for-the-badge&labelColor=F5F7FB&color=F5F7FB&logo=github&logoColor=21262d" alt="Edit profile" />
-          </a>
-        </div>
-      </div>
-    </td>
-    <td valign="top">
-      <div style="background: #f5f7fb; border: 1px solid #dfe3ee; border-radius: 20px; padding: 20px 22px; min-height: 360px;">
-        <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px; border-bottom: 1px solid #e3e7ef; padding-bottom: 10px; margin-bottom: 18px;">
-          <div style="font-family: monospace; color: #5b6472; font-size: 14px;">PradeepMurugesh-SE / README.md</div>
-          <div style="width: 24px; height: 24px; border-radius: 8px; background: #edf1f6; display: flex; align-items: center; justify-content: center; color: #5b6472;">✎</div>
-        </div>
+### Senior QA Lead · Automation Architect · Quality Engineering Advocate
 
-        <h1 style="margin: 0; font-size: 48px; line-height: 1.1; color: #1f2937;">Hi, I’m Pradeep Murugesh 👋</h1>
-        <p style="margin: 18px 0 10px; font-size: 22px; color: #374151; font-weight: 600;">
-          Senior QA Lead · Automation Architect · Quality Engineering Advocate
-        </p>
+<p>
+  <a href="#about-me">About</a> ·
+  <a href="#experience">Experience</a> ·
+  <a href="#automation-frameworks">Frameworks</a> ·
+  <a href="#skills">Skills</a> ·
+  <a href="#achievements">Achievements</a> ·
+  <a href="#contact">Contact</a>
+</p>
 
-        <p style="margin: 0; font-size: 16px; color: #4b5563;">
-          <a href="#about-me" style="color: #4f46e5; text-decoration: none;">About</a> ·
-          <a href="#experience" style="color: #4f46e5; text-decoration: none;">Experience</a> ·
-          <a href="#frameworks" style="color: #4f46e5; text-decoration: none;">Frameworks</a> ·
-          <a href="#skills" style="color: #4f46e5; text-decoration: none;">Skills</a> ·
-          <a href="#achievements" style="color: #4f46e5; text-decoration: none;">Achievements</a> ·
-          <a href="#contact" style="color: #4f46e5; text-decoration: none;">Contact</a>
-        </p>
+<p>
+  <a href="https://www.linkedin.com/in/pradeep-murugesh/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"></a>
+  <a href="mailto:pradeepgesh@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Pradeep"></a>
+  <a href="./Pradeep-Murugesh-Resume.md"><img src="https://img.shields.io/badge/Resume-Download-464feb?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download resume"></a>
+  <a href="https://github.com/settings/appearance"><img src="https://img.shields.io/badge/Theme-Dark%20%2F%20Light-24292f?style=for-the-badge&logo=github" alt="Change GitHub theme"></a>
+</p>
 
-        <div style="margin-top: 20px; display: flex; flex-wrap: wrap; gap: 10px;">
-          <a href="https://www.linkedin.com/in/pradeep-murugesh/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-          <a href="mailto:pradeepgesh@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Pradeep" /></a>
-          <a href="./Pradeep Murugesh Resume.pdf" download="Pradeep-Murugesh-Resume.pdf"><img src="https://img.shields.io/badge/Resume-Download-464feb?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download resume" /></a>
-        </div>
-
-        <div style="margin-top: 18px; font-size: 30px; color: #1f2937; font-weight: 700;">
-          Java | Selenium
-        </div>
-
-        <div style="margin-top: 20px; border: 1px solid #dfe3ee; border-radius: 12px; overflow: hidden; background: #fff;">
-          <table width="100%" style="border-collapse: collapse; font-size: 14px; color: #374151;">
-            <tr>
-              <td style="padding: 14px 18px; border-right: 1px solid #e3e7ef; text-align: center; font-weight: 600;">7+ years in QA</td>
-              <td style="padding: 14px 18px; border-right: 1px solid #e3e7ef; text-align: center; font-weight: 600;">50+ production releases</td>
-              <td style="padding: 14px 18px; border-right: 1px solid #e3e7ef; text-align: center; font-weight: 600;">Onsite delivery in Australia</td>
-              <td style="padding: 14px 18px; text-align: center; font-weight: 600;">Web · Mobile · API</td>
-            </tr>
-          </table>
-        </div>
-
-        <div style="margin-top: 22px; border: 1px solid #dfe3ee; border-radius: 12px; background: #fff; padding: 12px 14px;">
-          <h3 style="margin: 0 0 14px; font-size: 22px; color: #1f2937;">📌 Contents</h3>
-          <table width="100%" style="border-collapse: collapse; font-size: 15px; color: #374151;">
-            <tr>
-              <td style="padding: 10px 8px; border: 1px solid #edf1f7; text-align: center; width: 33%;"><a href="#about-me" style="color: #2563eb; text-decoration: none;">01 · About Me</a></td>
-              <td style="padding: 10px 8px; border: 1px solid #edf1f7; text-align: center; width: 33%;"><a href="#experience" style="color: #2563eb; text-decoration: none;">02 · Experience</a></td>
-              <td style="padding: 10px 8px; border: 1px solid #edf1f7; text-align: center; width: 33%;"><a href="#frameworks" style="color: #2563eb; text-decoration: none;">03 · Automation Frameworks</a></td>
-            </tr>
-            <tr>
-              <td style="padding: 10px 8px; border: 1px solid #edf1f7; text-align: center;"><a href="#skills" style="color: #2563eb; text-decoration: none;">04 · Skills</a></td>
-              <td style="padding: 10px 8px; border: 1px solid #edf1f7; text-align: center;"><a href="#achievements" style="color: #2563eb; text-decoration: none;">05 · Achievements</a></td>
-              <td style="padding: 10px 8px; border: 1px solid #edf1f7; text-align: center;"><a href="#contact" style="color: #2563eb; text-decoration: none;">06 · Contact</a></td>
-            </tr>
-          </table>
-        </div>
-      </div>
-    </td>
-  </tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=464FEB&center=true&vCenter=true&width=760&lines=Building+reliable+software+through+intelligent+automation;Java+%7C+Selenium+%7C+Cucumber+%7C+Appium+%7C+Playwright;Turning+quality+strategy+into+release+confidence" alt="Introduction">
 
 </div>
 
 <br>
 
+<div align="center">
+
+| 7+ years in QA | 50+ production releases | Onsite delivery in Australia | Web · Mobile · API |
+|:---:|:---:|:---:|:---:|
+
+</div>
+
+## 🧭 Contents
+
+<table>
+  <tr>
+    <td><a href="#about-me">01 · About Me</a></td>
+    <td><a href="#experience">02 · Experience</a></td>
+    <td><a href="#automation-frameworks">03 · Automation Frameworks</a></td>
+  </tr>
+  <tr>
+    <td><a href="#skills">04 · Skills</a></td>
+    <td><a href="#achievements">05 · Achievements</a></td>
+    <td><a href="#github-repositories">06 · GitHub Repositories</a></td>
+  </tr>
+  <tr>
+    <td><a href="#ai-testing-projects">07 · AI Testing Projects</a></td>
+    <td><a href="#certifications">08 · Certifications</a></td>
+    <td><a href="#contact">09 · Contact</a></td>
+  </tr>
+</table>
+
 ## About Me
 
-I am a **Test Lead and Senior QA Engineer** focused on building scalable automation and quality practices for enterprise web and mobile products. I support **Woolworths Group Australia via Tata Consultancy Services**, leading QA initiatives, automation adoption, stakeholder engagement, and release confidence.
+I am a **Test Lead and Senior QA Engineer** focused on building scalable automation and quality practices for enterprise web and mobile products. I currently support **Woolworths Group Australia through Tata Consultancy Services**, leading QA initiatives, automation adoption, stakeholder collaboration, and release readiness.
 
-I combine hands-on framework engineering with quality leadership to make risk visible earlier, automate the right layers, and help teams ship with confidence.
+My approach combines hands-on framework engineering with pragmatic quality leadership: make risk visible early, automate the right layers, and help teams ship with confidence.
 
-### Core strengths
-
-- 🎯 Quality strategy and release governance
-- 🧩 Automation framework engineering
-- 🤝 Onsite-offshore delivery leadership
-- ⚙️ CI/CD-integrated regression excellence
+<table>
+  <tr>
+    <td>🎯 <strong>Quality strategy</strong><br>Planning, estimation, risk and release governance</td>
+    <td>🧩 <strong>Framework engineering</strong><br>Maintainable, reusable and CI-ready automation</td>
+    <td>🤝 <strong>Leadership</strong><br>Onsite-offshore delivery and stakeholder alignment</td>
+  </tr>
+</table>
 
 ## Experience
 
-### Tata Consultancy Services · Test Lead / Senior QA Engineer
-- Led QA delivery for large-scale retail and e-commerce platforms.
-- Managed onsite and offshore teams for monthly releases and regression optimization.
-- Built and evolved Java + Selenium + Cucumber + Appium + Playwright automation.
-- Partnered with stakeholders and delivery teams to improve release confidence.
+```text
+2022 — Present  │ Test Lead / Senior QA Engineer · Tata Consultancy Services
+                │ Woolworths Group Australia · Chennai / Australia
+                │ Leading QA delivery, automation modernization, release readiness and
+                │ quality governance for large-scale retail and e-commerce platforms.
 
-### Relationship Science India Pvt. Ltd. · Research Analyst – Kofax Automation
-- Automated repetitive web tasks using Kofax RPA.
-- Extracted and validated business-critical data from portals.
-- Improved operational efficiency through workflow automation.
+Earlier         │ QA Engineer · Enterprise software delivery
+                │ Functional, integration, system, regression and UAT testing across
+                │ Agile teams, with a focus on reliable automation and defect prevention.
+```
 
-## Frameworks
+## Automation Frameworks
 
-### Java · Selenium · TestNG
-- Enterprise web automation with reusable page objects, reporting, and parallel execution.
+The frameworks below represent my core automation toolkit. Each is designed around readable tests, reusable components, reporting, parallel execution and CI/CD integration.
 
-### Java · Selenium · Cucumber
-- Behavior-driven automation bridging business requirements and executable tests.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Java · Selenium · TestNG</h3>
+      <p>Enterprise web automation with Page Objects, data-driven testing, parallel suites, cross-browser coverage and rich reports.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium">
+      <img src="https://img.shields.io/badge/TestNG-FF6C37?style=flat-square" alt="TestNG">
+    </td>
+    <td width="50%" valign="top">
+      <h3>🥒 Java · Selenium · Cucumber</h3>
+      <p>Behavior-driven automation that connects executable specifications with robust step definitions and living documentation.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium">
+      <img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white" alt="Cucumber">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>📱 Java · Appium</h3>
+      <p>Mobile test automation for Android and iOS with capability management, device coverage, gestures and reusable mobile screens.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white" alt="Appium">
+    </td>
+    <td valign="top">
+      <h3>⚡ Playwright</h3>
+      <p>Fast, reliable browser automation with auto-waiting, trace viewer, network control, parallel workers and modern reporting.</p>
+      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
+      <img src="https://img.shields.io/badge/Playwright_MCP-464FEB?style=flat-square" alt="Playwright MCP">
+    </td>
+  </tr>
+</table>
 
-### Java · Appium
-- Mobile regression automation for Android and iOS flows.
+### Framework snapshots
 
-### Playwright
-- Modern browser automation with reliable UI execution and CI/CD readiness.
+<table>
+  <tr>
+    <td><img src="https://dummyimage.com/600x260/172033/ffffff&text=Selenium+%2B+TestNG%7CPage+Objects+%7C+Parallel+Suites" alt="Selenium and TestNG framework snapshot"></td>
+    <td><img src="https://dummyimage.com/600x260/263238/ffffff&text=Playwright%7CTrace+Viewer+%7C+Cross+Browser" alt="Playwright framework snapshot"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Web regression architecture</sub></td>
+    <td align="center"><sub>Modern browser automation workflow</sub></td>
+  </tr>
+</table>
 
 ## Skills
 
-- **Automation:** Selenium WebDriver, Playwright, Appium, Cucumber, TestNG
-- **Programming:** Java, JavaScript, PL/SQL
-- **Tools:** Jenkins, JIRA, Postman, qTest, Azure, GCP
-- **Testing:** Functional, Integration, Regression, API, UAT, Mobile, Cross-browser
-- **Leadership:** Test planning, estimation, defect governance, release readiness
+| Area | Toolkit |
+|---|---|
+| **Automation** | Selenium WebDriver · Playwright · Playwright MCP · Appium · TestNG · Cucumber |
+| **Programming** | Java · JavaScript · PL/SQL |
+| **Testing** | Functional · Integration · System · Regression · API · UAT · Cross-browser · Mobile |
+| **Quality leadership** | Test strategy · Estimation · Risk management · Defect governance · Release readiness |
+| **Delivery & tools** | Jenkins · CI/CD · JIRA · qTest · Postman · Agile/Scrum · SDLC/STLC |
+| **Cloud** | Azure · Google Cloud Platform (GCP) |
 
 ## Achievements
 
-- 🏆 Supported more than 50 production releases through automation-driven QA.
-- 🌏 Led onsite QA delivery for an Australian retail client.
-- 📈 Improved regression efficiency via automation modernization.
-- ⭐ Recognized with multiple Applause and On-the-Spot awards.
-- 🥇 Best Performer recognition at Tata Consultancy Services.
+- 🏆 Supported **50+ production releases** through automation-led QA practices.
+- 🌏 Led onsite QA delivery for a major Australian retail client.
+- 📈 Improved regression efficiency through automation modernization.
+- 🔁 Contributed to Selenium-to-Playwright transformation initiatives.
+- ⭐ Received multiple **Applause** and **On-the-Spot Awards** for delivery excellence.
+- 🥇 Recognized as a **Best Performer at Tata Consultancy Services** with zero quality slippage.
+
+## GitHub Repositories
+
+<div align="center">
+  <a href="https://github.com/PradeepMurugesh-SE?tab=repositories">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=PradeepMurugesh-SE&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=464feb" alt="GitHub repository statistics">
+  </a>
+  <a href="https://github.com/PradeepMurugesh-SE?tab=repositories">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradeepMurugesh-SE&layout=compact&hide_border=true&theme=transparent&title_color=464feb" alt="Most used programming languages">
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://github.com/PradeepMurugesh-SE?tab=repositories">Explore my automation repositories →</a>
+</p>
+
+## GitHub Activity
+
+<div align="center">
+  <a href="https://github.com/PradeepMurugesh-SE">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PradeepMurugesh-SE&bg_color=ffffff00&color=464feb&line=464feb&point=ff6b6b&area=true&hide_border=true" alt="GitHub activity graph">
+  </a>
+</div>
+
+## AI Testing Projects
+
+| Project direction | What it enables |
+|---|---|
+| 🤖 **AI-assisted test design** | Generate risk-based scenarios, edge cases and test ideas from requirements |
+| 🧠 **Intelligent test planning** | Prioritize regression coverage using change impact and business risk |
+| 🔎 **Quality copilots** | Accelerate defect triage, root-cause exploration and test documentation |
+| 🧪 **Playwright MCP showcase** | Explore agent-assisted browser workflows with controlled, observable actions |
+
+> Currently learning: advanced Playwright architecture, AI in software testing, MCP-based automation and cloud-native testing strategies.
+
+## Certifications
+
+| Certification / learning track | Focus |
+|---|---|
+| **Quality Engineering Leadership** | Test strategy, governance and Agile delivery |
+| **Web & Mobile Automation** | Selenium, Playwright, Appium and cross-platform coverage |
+| **AI for QA** | Prompt engineering, AI-assisted test planning and quality workflows |
+
+<sub>Certification records and credential links can be added here as they become available.</sub>
 
 ## Contact
 
-- LinkedIn: [Pradeep Murugesh](https://www.linkedin.com/in/pradeep-murugesh/)
-- Email: [pradeepgesh@gmail.com](mailto:pradeepgesh@gmail.com)
-- Resume: [Download PDF](./Pradeep%20Murugesh%20Resume.pdf)
+I enjoy connecting with people working on **test automation, Playwright, Selenium, Appium, quality engineering, Agile delivery and AI in testing**.
 
----
+<div align="center">
+  <a href="mailto:pradeepgesh@gmail.com"><img src="https://img.shields.io/badge/Email-pradeepgesh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Pradeep"></a>
+  <a href="https://www.linkedin.com/in/pradeep-murugesh/"><img src="https://img.shields.io/badge/LinkedIn-Pradeep%20Murugesh-0A66C2?style=for-the-badge&logo=linkedin" alt="Pradeep on LinkedIn"></a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=PradeepMurugesh-SE&label=Profile%20visitors&color=464feb&style=flat-square" alt="Profile visitors">
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PradeepMurugesh-SE&label=Profile+views&color=blueviolet" alt="Profile views" />
-</p>
+<br>
+
+<div align="center">
+  <i>“Quality is never an accident; it is always the result of intelligent effort.”</i>
+</div>
+ofile%20visitors&color=464feb&style=flat-square" alt="Profile visitors">
+</div>
+
+<br>
+
+<div align="center">
+  <i>“Quality is never an accident; it is always the result of intelligent effort.”</i>
+</div>
