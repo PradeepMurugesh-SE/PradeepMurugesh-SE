@@ -2,7 +2,7 @@
 
 ## Test Lead | Senior QA Engineer | Automation Specialist
 
-📍 Sydney, Australia  
+📍 Chennai, Tamil Nadu, India  
 🔗 LinkedIn: https://www.linkedin.com/in/pradeep-murugesh/  
 📧 Email: pradeepgesh@gmail.com
 
